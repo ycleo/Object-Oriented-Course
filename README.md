@@ -1,5 +1,6 @@
-# object_oriented  
-Build softwares in object-oriented concept  
+# Object-oriented programming    
+Learn how to build softwares in object-oriented style.    
+
 Key concepts:  
 - Class & Object  
 - Encapsulation  
